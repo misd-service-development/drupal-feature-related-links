@@ -1,6 +1,11 @@
 Changelog for 7.x-1.*
 =====================
 
+7.x-1.2
+-------
+
+* Allow the view block to be shown on unpublished nodes.
+
 7.x-1.1
 -------
 
